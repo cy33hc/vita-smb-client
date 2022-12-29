@@ -1,7 +1,7 @@
 # vita-smb-client
 Simple SMB Client App for Vita for connecting to remote Windows Shares, Linux SMB Shares and NAS SMB shares to transfer files back and forth.
 
-![Preview](/screenshot/preview.jpg)
+![Preview](/screenshot.jpg)
 
 # Requirements
 The app is built with imgui-vita which needs the **libshacccg.suprx** extracted. A message will be displayed that you are missing the libshacccg.suprx files on starting the app.
