@@ -11,7 +11,6 @@ Follow this wiki to extract the libshaccg.suprx
 https://samilops2.gitbook.io/vita-troubleshooting-guide/shader-compiler/extract-libshacccg.suprx
 
 # Know Issues
- - Cannot rename files/folders in subdirectories in Windows Shares. Linux SMB Shares works.
  - Opening the Input Editor multiple times crashes the application. I can't figure out what's wrong. If somebody knows what's the problem. Help me out.
 
 # Multi Language support
