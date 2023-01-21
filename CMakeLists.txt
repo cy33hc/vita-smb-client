@@ -13,7 +13,7 @@ include("${VITASDK}/share/vita.cmake" REQUIRED)
 
 set(VITA_APP_NAME "SMB Client")
 set(VITA_TITLEID  "SMBCLI001")
-set(VITA_VERSION  "01.02")
+set(VITA_VERSION  "01.03")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fpermissive")
 
