@@ -13,7 +13,7 @@ include("${VITASDK}/share/vita.cmake" REQUIRED)
 
 set(VITA_APP_NAME "SMB Client")
 set(VITA_TITLEID  "SMBCLI001")
-set(VITA_VERSION  "01.03")
+set(VITA_VERSION  "01.04")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fpermissive")
 
@@ -124,8 +124,9 @@ vita_create_vpk(${PROJECT_NAME}.vpk ${VITA_TITLEID} eboot.bin
   FILE lang/Ryukyuan.ini lang/Ryukyuan.ini
   FILE lang/Thai.ini lang/Thai.ini
   FILE lang/Greek.ini lang/Greek.ini
+  FILE lang/Arabic.ini lang/Arabic.ini
+  FILE lang/Turkish.ini lang/Turkish.ini
   FILE lang/Hungarian.ini lang/Hungarian.ini
-  FILE lang/Thai.ttf lang/Thai.ttf
-  FILE lang/Vietnamese.ttf lang/Vietnamese.ttf
+  FILE lang/Roboto_ext.ttf lang/Roboto_ext.ttf
   FILE version.txt version.txt
 )
