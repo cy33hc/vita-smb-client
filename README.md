@@ -1,3 +1,5 @@
+# This repo is archived, please refer to the superceded version. https://github.com/cy33hc/vita-ezremote-client
+
 # vita-smb-client
 Simple SMB Client App for Vita for connecting to remote Windows Shares, Linux SMB Shares and NAS SMB shares to transfer files back and forth.
 
